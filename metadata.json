@@ -1,0 +1,6 @@
+{
+  "name": "Hindi Coding Studio",
+  "description": "A Hindi-language coding studio and interpreter to learn programming with native Hindi syntax, examples, and safe execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
